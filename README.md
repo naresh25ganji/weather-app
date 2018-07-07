@@ -1,5 +1,5 @@
 # weather-app
-Weather Application using Node.js, Express, OpenWeather
+Weather Application using Node.js, Express and OpenWeather API
 
 run below command from project home folder
 node server.js
