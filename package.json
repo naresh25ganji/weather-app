@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather Application using Node.js, Express, OpenWeather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naresh25ganji/weather-app.git"
+  },
+  "author": "naresh ganji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naresh25ganji/weather-app/issues"
+  },
+  "homepage": "https://github.com/naresh25ganji/weather-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
