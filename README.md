@@ -1,5 +1,5 @@
 # weather-app
-Weather Application using Node.js, Express and OpenWeather API
+Weather Application using Node.js, Express.js, Pug.js and OpenWeather API
 
 run below command from project home folder
 npm install
