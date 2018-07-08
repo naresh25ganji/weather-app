@@ -2,7 +2,8 @@
 Weather Application using Node.js, Express and OpenWeather API
 
 run below command from project home folder
-node server.js
+npm install
+node server.js  /  npm start
 
 open http://localhost:3000/
 
